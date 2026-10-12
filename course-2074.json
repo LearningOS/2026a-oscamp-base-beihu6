@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-beihu6",
-  "commit": "7bcffdc783c1c1027201a80b1d873ce46b47fa09",
-  "score": 15,
+  "commit": "9e7745ec392d28c5beee8942cc0fff02d617174f",
+  "score": 39,
   "totalScore": 100,
   "exercises": [
     {
@@ -37,37 +37,37 @@
     {
       "name": "mem_primitives",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "bump_allocator",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "free_list_allocator",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "syscall_wrapper",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "fd_table",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_counter",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "beihu6",
-  "runId": "38226896431",
+  "runId": "38263789434",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
